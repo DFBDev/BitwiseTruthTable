@@ -1,4 +1,3 @@
-//Student: Donathan Brown
 //Subject: COSC 2425
 //Program Set 1
 //Sources: 
